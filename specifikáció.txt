@@ -1,0 +1,15 @@
+Elképzelés:
+- 2d-s játék véletlen platformok megjelenek és azokon kell tovább ugrálni.
+Követelmények:
+- Score Board(eredmény tábla)
+- Reklámok (pénzszerzés céljából)
+- Menüredszer
+- Reklám menteségé fizetni keljen
+- különbözõ karakterek( néhány fizetõsõ)
+- nehézségi szitntek
+- hátérzene( ki/be) kapcsolás)
+- androidra és pc-re
+Riport:
+- 2d platformer játék, véletlen szerûen jelenjenek meg a platformok amire rá kell ugrani h tovább lehessen jutni, minél tovább jutsz anál több pontod lesz, akinek a legtöbb pontja van az az elsõ az eredmény listán.
+fogalom szótár:
+- platform: egy dolog mire ugorhat a karakter.
